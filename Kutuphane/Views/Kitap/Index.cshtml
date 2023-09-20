@@ -26,10 +26,13 @@
 					Id
 				</th>
 				<th>
-					KitapAdi
+					Kitap Adı
 				</th>
 				<th>
-					Tanim
+					Kitap Türü
+				</th>	
+				<th>
+					Tanım
 				</th>
 				<th>
 					Yazar
@@ -37,9 +40,7 @@
 				<th>
 					Fiyat
 				</th>
-				<th>
-					KitapTuru
-				</th>	
+				
 
 				@if (User.IsInRole(UserRoles.Role_Admin))
 				{
@@ -62,10 +63,11 @@
 						</td>
 						<td align="center" valign="middle">@kitap.Id</td>
 						<td align="center" valign="middle">@kitap.KitapAdi</td>
+						<td align="center" valign="middle">@kitap.KitapTuru.Ad</td>
 						<td align="center" valign="middle">@kitap.Tanim</td>
 						<td align="center" valign="middle">@kitap.Yazar</td>
 						<td align="center" valign="middle">@kitap.Fiyat</td>
-						<td align="center" valign="middle">@kitap.KitapTuru.Ad</td>
+						
 
 					@if (User.IsInRole(UserRoles.Role_Admin))
 					{
