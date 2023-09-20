@@ -1,6 +1,6 @@
 Kütüphane Yönetimi projesinde ASP.NET MVC kullanılarak oluşturulmuştur projemde Admin ve Öğrenci paneli bulunmaktadır. Admin panelinin kitap türü,kitap işlemleri ve kiralama işlemleri ekleme,güncelleme ve silme işlemlerini yapabilmektedir.Öğrenci panelimizde ise yalnızca kitap listesini görmektedir
 # Ana Sayfa
-![Ana_Sayfa](https://github.com/acareyyup/Kutuphane/assets/100216722/364dd511-a348-4677-ad2e-401aef441bd8)
+![Ana_Sayfa](https://github.com/acareyyup/Kutuphane/assets/100216722/364dd511-a348-4677-ad2e-401aef441bd8.png)
 
 # Giriş Yapma Ekranı
 ![Giris_Yapma_Ekrani](https://github.com/acareyyup/Kutuphane/assets/100216722/cb581a50-5e99-49cd-8f96-032690416961)
