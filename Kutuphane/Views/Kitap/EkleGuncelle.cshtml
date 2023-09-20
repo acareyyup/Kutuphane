@@ -13,19 +13,19 @@
 			</div>
 
 			<div class="mb-3">
-				<label asp-for="KitapAdi" class="p-0"></label>
+				<label asp-for="KitapAdi" class="p-0">Kitap Adı</label>
 				<input asp-for="KitapAdi" class="form-control"/>
 				<span asp-validation-for="KitapAdi" class="text-danger"></span>
 			</div>
 
 			<div class="mb-3">
-				<label asp-for="KitapTuruId" class="p-0"></label>
+				<label asp-for="KitapTuruId" class="p-0">Kitap Türü</label>
 				<select asp-for="KitapTuruId" asp-items="ViewBag.KitapTuruList" class="form-select">
 				</select>			
 			</div>
 
 			<div class="mb-3">
-				<label asp-for="Tanim" class="p-0"></label>
+				<label asp-for="Tanim" class="p-0">Tanım</label>
 				<input asp-for="Tanim" class="form-control"/>
 				<span asp-validation-for="Tanim" class="text-danger"></span>
 			</div>
