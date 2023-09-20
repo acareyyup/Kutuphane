@@ -4,40 +4,49 @@ Kütüphane Yönetimi projesinde ASP.NET MVC kullanılarak oluşturulmuştur pro
 
 
 # Giriş Yapma Ekranı
-![Giris_Yapma_Ekrani](https://github.com/acareyyup/Kutuphane/assets/100216722/cb581a50-5e99-49cd-8f96-032690416961)
+![Giris_Yapma_Ekrani](https://github.com/acareyyup/Kutuphane/assets/100216722/0688cecb-3feb-456e-96fe-d0302add295c.png)
+
 
 # Kayıt İşlemi
 
-![Kayit_Ol](https://github.com/acareyyup/Kutuphane/assets/100216722/e36585e2-bb7f-4b93-a55e-8936a37f9e8d)
+![Kayit_Ol](https://github.com/acareyyup/Kutuphane/assets/100216722/8ccf7ebc-90e4-49be-9bae-6af3256734f1.png)
+
 
 # E-Posta ve Hesap Onayı
-![Kayit_Onayı](https://github.com/acareyyup/Kutuphane/assets/100216722/86e8a2ba-b5fe-487f-b58b-b758bedb4952)
-![Eposta_Onayi](https://github.com/acareyyup/Kutuphane/assets/100216722/c0d9ec26-6282-4803-b0da-e38f232fe434)
+![Kayit_Onayı](https://github.com/acareyyup/Kutuphane/assets/100216722/298ab98c-0ffe-4db8-8aa0-e0c2ab9651fe.png)
+
+![Eposta_Onayi](https://github.com/acareyyup/Kutuphane/assets/100216722/bd1380a6-ee5e-4888-949b-e6cc5f147ff7.png)
+
 
 # Kütüphane Yönetimi projesinde Admin ve Öğrenci paneli bulunmaktadır.
 # 1.Admin Paneli: 
 Bu panel, kütüphanenin işletilmesi ve kitapların yönetilmesi için kullanılır.
+![Admin_Girisi](https://github.com/acareyyup/Kutuphane/assets/100216722/486e8a29-abee-4994-85bc-7256574b5c57.png)
 
-![Admin_Girisi](https://github.com/acareyyup/Kutuphane/assets/100216722/57d62a05-835d-4944-9419-a36472396178)
+
 
 # Kitap Türü Yönetimi:
 Admin, yeni kitap türleri ekleyebilir, mevcut türleri güncelleyebilir veya silebilir. Bu sayede kitapların kategorilendirilmesi sağlanır.
-![KitapTuru](https://github.com/acareyyup/Kutuphane/assets/100216722/22f53bb6-744b-49cf-8665-0f219faa04fe)
+
+![KitapTuru](https://github.com/acareyyup/Kutuphane/assets/100216722/a3e6d660-68d2-4083-b004-9ffabbadcafc.png)
 
 # Kitap İşlemleri: 
 Admin, kütüphaneye yeni kitaplar ekleyebilir, mevcut kitapların bilgilerini güncelleyebilir veya kitapları kaldırabilir.
-![Kitap_Islemleri](https://github.com/acareyyup/Kutuphane/assets/100216722/2399d132-5a35-45fe-be6c-56a969a13bad)
+
+![Kitap_Islemleri](https://github.com/acareyyup/Kutuphane/assets/100216722/4544c17e-4fb9-464d-82aa-c822c253f041.png)
 
 # Kiralama İşlemleri: 
 Admin, öğrencilerin kitapları ödünç almasını ve iade etmesini yönetebilir. Bu, kütüphanenin kitapların kullanımını takip etmesini sağlar.
-![Kiralama_Islemleri](https://github.com/acareyyup/Kutuphane/assets/100216722/61f24531-3449-4382-8835-71001bc009b2)
+
+![Kiralama_Islemleri](https://github.com/acareyyup/Kutuphane/assets/100216722/c1a69d0d-7575-4699-8d6c-762792b8bd6c.png)
 
 
 # 2.Öğrenci Paneli: 
 # Kitap Listesi
 Öğrenci, kütüphanenin mevcut kitaplarının bir listesini görüntüleyebilir. Bu sayede istedikleri kitapları bulmaları ve talep etmeleri kolaylaşır.
 
-![Ogrenci_Girisi_KitapListesi](https://github.com/acareyyup/Kutuphane/assets/100216722/c7080d2f-9a09-41a3-a99a-fd7e1985e411)
+![Ogrenci_Girisi_KitapListesi](https://github.com/acareyyup/Kutuphane/assets/100216722/48c9c87c-f8a5-4c5a-87f3-f8b6e10cb19d.png)
+
 
 
 
