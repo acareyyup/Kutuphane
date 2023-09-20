@@ -33,12 +33,10 @@ Admin, öğrencilerin kitapları ödünç almasını ve iade etmesini yönetebil
 
 
 # 2.Öğrenci Paneli: 
-Bu panel, öğrencilerin kütüphaneyi kullanmasını kolaylaştırır.
-![Ogrenci_Girisi_KitapListesi](https://github.com/acareyyup/Kutuphane/assets/100216722/c7080d2f-9a09-41a3-a99a-fd7e1985e411)
-
-# Kitap Listesi: 
+# Kitap Listesi
 Öğrenci, kütüphanenin mevcut kitaplarının bir listesini görüntüleyebilir. Bu sayede istedikleri kitapları bulmaları ve talep etmeleri kolaylaşır.
-![Ogrenci_Girisi](https://github.com/acareyyup/Kutuphane/assets/100216722/041aa07d-e41d-4cf9-aa59-70590a8748a2)
+
+![Ogrenci_Girisi_KitapListesi](https://github.com/acareyyup/Kutuphane/assets/100216722/c7080d2f-9a09-41a3-a99a-fd7e1985e411)
 
 
 
